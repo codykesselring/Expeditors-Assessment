@@ -1,0 +1,15 @@
+123 MAIN ST, SEATTLE, WA, occupants: 4
+234 2ND AVE, TACOMA, WA, occupants: 2
+345 3RD BLVD APT 200, SEATTLE, WA, occupants: 2
+234 2ND AVE, TACOMA, FL, occupants: 1
+234 2ND AVE, SEATTLE, WA, occupants: 1
+--------------------------------
+George, Brown, 345 3RD BLVD APT 200, SEATTLE, WA, 18
+Helen, Brown, 345 3RD BLVD APT 200, SEATTLE, WA, 18
+Carol, Johnson, 234 2ND AVE, SEATTLE, WA, 67
+Frank, Jones, 234 2ND AVE, TACOMA, FL, 23
+Alice, Smith, 123 MAIN ST, SEATTLE, WA, 45
+Dave, Smith, 123 MAIN ST, SEATTLE, WA, 43
+Eve, Smith, 234 2ND AVE, TACOMA, WA, 25
+Ian, Smith, 123 MAIN ST, SEATTLE, WA, 18
+Bob, Williams, 234 2ND AVE, TACOMA, WA, 26
