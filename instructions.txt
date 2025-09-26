@@ -1,10 +1,3 @@
-Assignment Summary
-
-This Developer Design and Development exercise is used in the evaluation process for potential new hire candidates.  
-Please approach this exercise as you would approach a design and development project.  
-Please plan to allocate somewhere between 2-6 hours to complete the exercise.  
-Any documentation or explanations about your approach and assumptions are helpful.  Please e-mail your completed exercise back to your recruiting contact at Expeditors when complete.
-
 Requirements:
 Write a program using Java or an object oriented language of your preference.  (Java is the primary dev language at Expeditors).  
 Given the provided input data, print the expected output to the console or write to a text file.
